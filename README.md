@@ -31,6 +31,7 @@ python3 dewinfont.py -o Quake1.txt Quake1.fon
 
 - [ruscii](https://plugring.farmanager.com/plugin.php?pid=345&l=ru)
 
+- [Terminal Font Cyr](https://plugring.farmanager.com/plugin.php?pid=689&l=ru)
 
 # Additional resources
 
