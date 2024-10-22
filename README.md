@@ -25,7 +25,7 @@ python3 dewinfont.py -o Quake1.txt Quake1.fon
 
 - [fixed](https://www.chiark.greenend.org.uk/%7Esgtatham/fonts/) exported font by [PuTTY author himself](https://www.chiark.greenend.org.uk/~sgtatham/)
 
-- [Quake](https://quakewiki.org/wiki/Quake_font)
+- [Quake console font](http://www.thealmightyguru.com/GameFonts/Series-QUAKE.html) by Christian Künzer (aka ck! / Freaky Fonts)
 
 - [BigBlue Terminal 8x12](https://int10h.org/blog/2015/12/bigblue-terminal-oldschool-fixed-width-font/)
 
